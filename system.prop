@@ -1,2 +1,6 @@
 # Display
 persist.sys.brightness.low.gamma=true
+
+# radio
+persist.radio.VT_HYBRID_ENABLE=1
+persist.dbg.vt_avail_ovr=1

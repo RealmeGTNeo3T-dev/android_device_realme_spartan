@@ -4,3 +4,11 @@ ro.config.media_vol_steps=30
 ro.config.vc_call_vol_steps=9
 ro.vendor.audio.sdk.fluencetype=fluence
 ro.vendor.qti.va_odm.support=1
+
+# RIL
+persist.vendor.radio.force_on_dc=true
+persist.vendor.radio.poweron_opt=1
+persist.vendor.radio.stack_id_1=1
+persist.vendor.ims.vt.enableadb=3
+ro.vendor.oplus.radio.project=2
+ro.vendor.oplus.radio.sar_regionmark=FCC
